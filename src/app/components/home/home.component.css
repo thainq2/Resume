@@ -1,0 +1,27 @@
+
+* {
+    color: #ffffff;
+}
+
+#main-content {
+    position: relative;
+}
+
+#right-content {
+    position: absolute;
+    right: 0;
+    top: 15%;
+}
+
+#avatar {
+    align-self: center;
+    width: 80%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px 10px #ffffff;
+}
+
+.home_link {
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+}

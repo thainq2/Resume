@@ -1,0 +1,25 @@
+/*
+ *
+ */
+#header {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+
+#nav-top {
+    float: right;
+}
+
+#nav-top > a {
+    float: left;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 14px 16px;
+    
+}
+
+.active {
+    border-bottom: 3px solid #ffffff;
+}
